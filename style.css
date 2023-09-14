@@ -1,0 +1,17 @@
+header{
+    background-color: blue;
+    text-align: center; 
+    color: white;   
+}
+li{
+    list-style: none;
+    display: inline;
+    color: white;
+    text-align: center;
+    margin: 1%;
+}
+footer{
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
